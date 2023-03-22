@@ -5,7 +5,7 @@
       <p class="text-md text-slate-200">Foram entrevistados 30 alunos do CEHM, no turno matutino, sendo usada amostragem estratificada, com 5 alunos de
         cada turma. A partir dessas informações, foi possível traçar o tempo de uso médio por dia da semana de cada turma.
       </p>
-      <p>Pesquisa realizada no dia 21/03/2023</p>
+      <p>Pesquisa realizada no dia 21/03/2023, escala de tempo em hora.</p>
     </article>
 
     <Chart />
