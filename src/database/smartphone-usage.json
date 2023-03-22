@@ -1,0 +1,40 @@
+{
+  "datasets": [
+    {
+      "label": "1ºA",
+      "data": [4, 2.6, 2.6, 2.6, 2.6, 4, 4],
+      "fill": false,
+      "backgroundColor": "#BA7BA1"
+    },
+    {
+      "label": "1ºB",
+      "data": [7.2, 6.4, 6.4, 6.4, 6.4, 7.2, 7.2],
+      "fill": true,
+      "backgroundColor": "#C28CAE"
+    },
+    {
+      "label": "2ºA",
+      "data": [15, 13.4, 13.4, 13.4, 13.4, 13.4, 13.7],
+      "fill": true,
+      "backgroundColor": "#D0ABA0"
+    },
+    {
+      "label": "2ºB",
+      "data": [15, 13.2, 13.2, 13.2, 13.2, 13.2, 15],
+      "fill": true,
+      "backgroundColor": "#DEC4A1"
+    },
+    {
+      "label": "3ºA",
+      "data": [11, 10.4, 10.4, 10.4, 10.4, 12.4, 12.4],
+      "fill": true,
+      "backgroundColor": "#EDCF8E"
+    },
+    {
+      "label": "3ºB",
+      "data": [13, 9.8, 9.8, 9.8, 9.8, 9.8, 14],
+      "fill": true,
+      "backgroundColor": "#E3B44F"
+    }
+  ]
+}
